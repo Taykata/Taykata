@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altay Terziev</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif">
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif">
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
